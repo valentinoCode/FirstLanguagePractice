@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpInterpreter.Library", "CSharpInterpreter.Library\CSharpInterpreter.Library.csproj", "{F1B92510-65D6-4B74-87EE-B722C379F246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpInterpreter.Test", "CSharpInterpreter.Test\CSharpInterpreter.Test.csproj", "{BE53856A-0780-4612-B571-36237C4DED8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B92510-65D6-4B74-87EE-B722C379F246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B92510-65D6-4B74-87EE-B722C379F246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B92510-65D6-4B74-87EE-B722C379F246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B92510-65D6-4B74-87EE-B722C379F246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE53856A-0780-4612-B571-36237C4DED8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE53856A-0780-4612-B571-36237C4DED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE53856A-0780-4612-B571-36237C4DED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE53856A-0780-4612-B571-36237C4DED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
