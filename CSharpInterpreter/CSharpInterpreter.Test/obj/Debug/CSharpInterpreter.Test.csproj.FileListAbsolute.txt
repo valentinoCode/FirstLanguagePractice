@@ -7,3 +7,11 @@ C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpr
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\CSharpInterpreter.Test.dll
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\CSharpInterpreter.Test.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Test.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Test.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Library.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Library.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\nunit.framework.xml
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\CSharpInterpreter.Test.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\obj\Debug\CSharpInterpreter.Test.pdb

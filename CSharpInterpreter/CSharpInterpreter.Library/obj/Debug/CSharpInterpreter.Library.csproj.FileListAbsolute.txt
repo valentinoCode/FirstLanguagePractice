@@ -3,3 +3,8 @@ C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpr
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\CSharpInterpreter.Library.dll
 C:\Users\diego.hernan.bogado\Documents\Visual Studio 2008\Projects\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\CSharpInterpreter.Library.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\bin\Debug\CSharpInterpreter.Library.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\bin\Debug\CSharpInterpreter.Library.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\CSharpInterpreter.Library.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Debug\CSharpInterpreter.Library.pdb
