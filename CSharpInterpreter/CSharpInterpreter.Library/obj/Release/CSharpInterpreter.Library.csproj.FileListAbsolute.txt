@@ -1,0 +1,5 @@
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\bin\Release\CSharpInterpreter.Library.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\bin\Release\CSharpInterpreter.Library.pdb
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Release\ResolveAssemblyReference.cache
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Release\CSharpInterpreter.Library.dll
+C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Library\obj\Release\CSharpInterpreter.Library.pdb

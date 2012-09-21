@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Test.dll</TopNode>
+  <SelectedNode>[0-1000]CSharpInterpreter.Test.ExpressionsTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\Users\diego.hernan.bogado\FirstLanguagePractice\CSharpInterpreter\CSharpInterpreter.Test\bin\Debug\CSharpInterpreter.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]CSharpInterpreter" Expanded="true" />
+    <Node UniqueName="[0-1005]CSharpInterpreter.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]CSharpInterpreter.Test.ExpressionsTests" Expanded="true" />
+  </Nodes>
+</VisualState>

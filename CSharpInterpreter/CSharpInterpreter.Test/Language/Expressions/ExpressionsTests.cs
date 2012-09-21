@@ -11,10 +11,20 @@ namespace CSharpInterpreter.Test
     public class ExpressionsTests
     {
         [Test]
-        public void ANotDefinedVariableSholdReturnNull()
+        public void NotDefinedVariableSholdReturnNull()
         {
             BindingEnvironment environment = new BindingEnvironment();
-            //VariableExpres
+            VariableExpression variable = new VariableExpression("foo");
+
+            Assert.IsNull(variable.Evaluate(environment));
+        }
+
+        [Test]
+        public void ConstantExpressionShouldReturnValue()
+        {
+            Assert.AreEqual("foo",(new ConstantExpression("foo")).Evaluate(null));
+            Assert.AreEqual(1, (new ConstantExpression(1)).Evaluate(null));
+            Assert.AreEqual(null, (new ConstantExpression(null)).Evaluate(null));
         }
     }
 }

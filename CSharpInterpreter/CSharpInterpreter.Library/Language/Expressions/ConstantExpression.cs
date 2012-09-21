@@ -6,10 +6,17 @@ using System.Text;
 namespace CSharpInterpreter.Library.Language
 {
     public class ConstantExpression:IExpression
-    {     
+    {
+        public object value;
+
+        public ConstantExpression(object value)
+        {
+            this.value = value;
+        }
+
         public object Evaluate(BindingEnvironment environment)
         {
-            throw new NotImplementedException();
+            return this.value;
         }        
     }
 }
